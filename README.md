@@ -25,7 +25,6 @@
 - 💬 Ask me about **Python & Flutter**
 
 - 📫 How to reach me **nomozovasroe@gmail.com**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/https://twitter.com/nofun02156925?t=litponsubofkd9dnotnc6g&s=09" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="https://twitter.com/nofun02156925?t=litponsubofkd9dnotnc6g&s=09" height="30" width="40" /></a>
