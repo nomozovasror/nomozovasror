@@ -14,7 +14,7 @@
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Hi+I'm+Asror;++;Python+Backend+Devoloper,;Computer+Science+Student,;Active+Learner/Researcher,;Love+to+learn+new+stuffs..<3"></a>
 </p>
 <img align="right" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
-- 🔭 I’m currently working in <a href="https://https://tersu.uz/" target="blank">Termiz Davlat Univeriteti</a>
+- 🔭 I’m currently working in <a href="https://https://tersu.uz/" target="blank">Termiz Davlat Universiteti</a>
 
 - 🌱 I’m currently Working on Backend(Django)
 
