@@ -1,29 +1,36 @@
-<h1>Welcome to My GitHub Profile 👋</h1>
+<h1>Nomozov Asror - GitHub Profile 👋</h1>
 
-<p>Hi there! I'm <strong>Nomozov Asror</strong>, an aspiring developer passionate about Python development and exploring creative software solutions. My repositories reflect my journey through programming, experimenting with tools, and building applications for various purposes.</p>
+<p>Hello! I'm <strong>Nomozov Asror</strong>, a passionate developer dedicated to learning and creating innovative solutions. This profile showcases my journey in programming, including both open and private repositories where I explore new ideas and technologies.</p>
 
-<h2>🛠️ Projects & Repositories</h2>
+<h2>🚀 My Focus Areas</h2>
 <ul>
-    <li><a href="https://github.com/nomozovasror/Panorama" target="_blank">Panorama</a>: A visual collection of panoramas and images showcasing my experiments with photography and file organization.</li>
-    <li><a href="https://github.com/nomozovasror/goodreads" target="_blank">Goodreads</a>: A Python-based project for managing and organizing book-related data.</li>
+    <li><strong>Backend Development:</strong> Building robust systems using Django and Python.</li>
+    <li><strong>Database Management:</strong> Expertise in PostgreSQL for efficient data handling.</li>
+    <li><strong>Web Services:</strong> Creating RESTful APIs and microservices with modern tools.</li>
 </ul>
 
-<h2>🌱 Current Focus</h2>
+<h2>🛠️ Featured Projects</h2>
 <ul>
-    <li>Improving my Python and Django skills.</li>
-    <li>Learning modern development tools and methodologies.</li>
-    <li>Building small projects to solidify my programming knowledge.</li>
+    <li>Private Projects: Confidential work addressing security and client-specific requirements.</li>
+</ul>
+
+<h2>🌱 Current Goals</h2>
+<ul>
+    <li>Building and scaling complex systems.</li>
+    <li>Mastering Docker, Kubernetes, and other modern DevOps tools.</li>
+    <li>Creating impactful open-source projects using Python and Django.</li>
 </ul>
 
 <h2>📫 Get in Touch</h2>
 <ul>
-    <li><strong>Email:</strong> <a href="mailto:your-email@example.com">your-email@example.com</a></li>
-    <li><strong>LinkedIn:</strong> <a href="#">Your LinkedIn</a> (optional)</li>
+    <li><strong>Email:</strong> <a href="mailto:nomozovasroe@gmail.com">nomozovasroe@gmail.com</a></li>
+    <li><strong>Telegram:</strong> <a href="https://t.me/D34th5hot" target="_blank">@D34th5hot</a></li>
 </ul>
-<p>Always open to collaboration and learning opportunities!</p>
+<p>I'm always open to collaboration and learning opportunities!</p>
 
 <h2>⚡ Fun Fact</h2>
-<p>Coding isn't just a skill—it's how I solve puzzles and bring ideas to life!</p>
+<p>Writing code is not just a skill for me—it's how I solve problems and bring my creative ideas to life!</p>
+
 
 
 <h3 align="left">Languages and Tools:</h3>
@@ -32,5 +39,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nomozovasror&show_icons=true&locale=en&layout=compact" alt="nomozovasror" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nomozovasror&show_icons=true&locale=en" alt="nomozovasror" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nomozovasror&" alt="nomozovasror" /></p>
